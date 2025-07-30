@@ -1,4 +1,4 @@
 Hello! I am testing branches.
 Editing test hello 1 branch to have a pull from the branch to check how multiple branches work with master's branch to have a pull request.
 Testing the dispute created by having different code/text on the same line on merging or a pull request, this is master repostory.
-
+I have tested the fork, it's successfully done, trying to get the pull request
